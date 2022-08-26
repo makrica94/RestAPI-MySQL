@@ -1,8 +1,8 @@
 # RestAPI-MySQL
 
-Закидываем папку в "MAMP\htdocs", после чего создаем БД через MyPHPAdmin с названием "notebook".
+Закидываем папку в "MAMP\htdocs"
 
-После чего создаем таблицу test_api c такими колонками:
+Cоздаем БД через MyPHPAdmin с названием "notebook". После чего создаем таблицу test_api c такими колонками:
 
 ![image](https://user-images.githubusercontent.com/35145737/186931802-66abbb15-03f3-4ed4-91fb-7af292ff0fb5.png)
 
